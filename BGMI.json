@@ -1,7 +1,7 @@
             {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
+    "serverstatus":"false",
+    "noticemode":"false",
+    "dataclearmode":"true",
     "servermeassage":"Wait We Are Working On a new Update ! @VICTORMODZZ",
     "opentime":" Wait For Some Time ⚡",
     "libs":"https://github.com/VICTORFOREVERR/SPARK32/raw/refs/heads/main/libbgmi.zip",
